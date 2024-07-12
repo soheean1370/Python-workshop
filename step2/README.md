@@ -80,7 +80,7 @@ print(a,b)
 
 ## dict
 
----
+-------
 
 array, immutable, mutable
 function, type hint
