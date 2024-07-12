@@ -6,14 +6,16 @@
 
 다양한 파이썬 종류가 존재
 - CPython
-- Cython
-- Jython
-- IronPython
-- PyPI
-- Numba
-- stacklesspython
-- no-gil python
+- Cython :  c low level이랑 조금 더 가까운 C언어로 만든 언어. 컴파일이 가능한 특징
+- Jython : java 컴파일러로 만든 파이썬
+- IronPython :  c#로 만든 파이썬
+- PyPI : 파이썬으로 컴파일러를 만들어서 파이썬 언어를 구현한거
+- Numba : 변경 프로그래밍을 하기 위해서 만든 언어. 수학 연산을 위해 만들어진 파이썬 연관된 라이브러리 및 언어
+- stacklesspython : 
+- no-gil python :  글로벌 인터프리터 락이 없는 파이썬 병렬 처리가 아니고 멀티 스레딩이 가능한 파이썬
 - ...
+
+파이썬은 c로 만들어졌기 때문에 c가 할 수 있는건 다 할 수 있다고 보는게 맞다. 파이썬으로 웹 개발, 어플리케이션, 위틸, gui 등등 만들 수 있다
 
 파이썬 패키지
 https://wikidocs.net/book/14021
